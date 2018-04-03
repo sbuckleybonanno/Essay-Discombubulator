@@ -1,0 +1,4 @@
+My app is a little experiment I'm trying out, in which I change every word in a piece of text to a synonym. You can have a look at it on github if you'd like, assuming, of course, I actually finish it. My only reason to make it is as a curiosity, and to give me an excuse to get some experience with vim bindings. Thanks for the API! 
+
+This isn't meant for article spinning (I just found out what that is after reading your note at the bottom), as I intend to change every word I can in any text given to the program, so that it is nigh unreadable. I'm curious how far this can go before the text becomes pure gibberish. Also, I'm pretty sure what I'm making is too basic to have any chance at being used for article spinning. 
+
